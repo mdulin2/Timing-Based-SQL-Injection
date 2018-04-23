@@ -1,3 +1,5 @@
+--scrips used in order to create the database
+
 CREATE TABLE Login (
     user VARCHAR(50),
     password VARCHAR(50),
