@@ -15,7 +15,7 @@ CREATE TABLE Blog (
     FOREIGN KEY (user) REFERENCES Login(user)
 )
 
-INSERT INTO Login(user,password) VALUES("yangerbanger","asiangirls")
+INSERT INTO Login(user,password) VALUES("yangerbanger","damson!")
 
 INSERT INTO Blog(user,title,post) VALUES(some_val,username in Login,"string","string")
 
