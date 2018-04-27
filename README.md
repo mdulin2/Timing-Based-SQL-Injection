@@ -40,5 +40,5 @@ Other routes:
   - In the SELECT clause, using 1/0 can be useful. 
   - Returning a subquery that returning too many rows.
 
-** Hack the Planet! ILY!
-![Alt Text](https://gph.is/1NMhs5A)
+
+![](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif)
