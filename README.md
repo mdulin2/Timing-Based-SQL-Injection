@@ -1,4 +1,5 @@
 # Timing Based SQL Injections
+
 SQL Injections are funny little guys to play with! Even though prepared statements have fixed a lot of SQL injections, SQL injections are still well and alive in the wild!  
 So, there are different situations where SQL Injections occur and different ways to get the information. With a search engine like item, the information might be directed to you, an error might occur, or something else on that matter. But, what if NOTHING happens? Boom, here's the solution: 
 
@@ -38,3 +39,6 @@ Other routes:
 - Creating conditional runtimeerrors if a requirement is set.  
   - In the SELECT clause, using 1/0 can be useful. 
   - Returning a subquery that returning too many rows.
+
+** Hack the Planet! ILY!
+![Alt Text](https://giphy.com/gifs/14kdiJUblbWBXy/links)
