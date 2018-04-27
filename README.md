@@ -41,4 +41,4 @@ Other routes:
   - Returning a subquery that returning too many rows.
 
 ** Hack the Planet! ILY!
-![Alt Text](https://giphy.com/gifs/14kdiJUblbWBXy/links)
+![Alt Text](https://gph.is/1NMhs5A)
